@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">DelphiDotNet.Personality</Option>
+			<Option Name="ProjectType">AspProject</Option>
+			<Option Name="Version">2.0</Option>
+			<Option Name="GUID">{179B6A6F-EE1A-4E54-A46F-FD6DC1387A25}</Option>
+		</Option>
+	</PersonalityInfo>
+	<DelphiDotNet.Personality>
+		<Source>
+			<Source Name="MainSource">populando.dpr</Source>
+		</Source>
+		<FileVersion>
+			<FileVersion Name="Version">7.0</FileVersion>
+		</FileVersion>
+		<Compiler>
+			<Compiler Name="A">0</Compiler>
+			<Compiler Name="B">0</Compiler>
+			<Compiler Name="C">1</Compiler>
+			<Compiler Name="D">1</Compiler>
+			<Compiler Name="E">0</Compiler>
+			<Compiler Name="F">0</Compiler>
+			<Compiler Name="G">1</Compiler>
+			<Compiler Name="H">1</Compiler>
+			<Compiler Name="I">1</Compiler>
+			<Compiler Name="J">0</Compiler>
+			<Compiler Name="K">0</Compiler>
+			<Compiler Name="L">1</Compiler>
+			<Compiler Name="M">0</Compiler>
+			<Compiler Name="N">1</Compiler>
+			<Compiler Name="O">1</Compiler>
+			<Compiler Name="P">1</Compiler>
+			<Compiler Name="Q">0</Compiler>
+			<Compiler Name="R">0</Compiler>
+			<Compiler Name="S">0</Compiler>
+			<Compiler Name="T">0</Compiler>
+			<Compiler Name="U">0</Compiler>
+			<Compiler Name="V">1</Compiler>
+			<Compiler Name="W">0</Compiler>
+			<Compiler Name="X">1</Compiler>
+			<Compiler Name="Y">1</Compiler>
+			<Compiler Name="Z">1</Compiler>
+			<Compiler Name="ShowHints">True</Compiler>
+			<Compiler Name="ShowWarnings">True</Compiler>
+			<Compiler Name="UnitAliases">WinTypes=Borland.Vcl.Windows;WinProcs=Borland.Vcl.Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;</Compiler>
+			<Compiler Name="NamespacePrefix"></Compiler>
+			<Compiler Name="GenerateDocumentation">False</Compiler>
+			<Compiler Name="DefaultNamespace"></Compiler>
+			<Compiler Name="SymbolDeprecated">True</Compiler>
+			<Compiler Name="SymbolLibrary">True</Compiler>
+			<Compiler Name="SymbolPlatform">True</Compiler>
+			<Compiler Name="SymbolExperimental">True</Compiler>
+			<Compiler Name="UnitLibrary">True</Compiler>
+			<Compiler Name="UnitPlatform">True</Compiler>
+			<Compiler Name="UnitDeprecated">True</Compiler>
+			<Compiler Name="UnitExperimental">True</Compiler>
+			<Compiler Name="HResultCompat">True</Compiler>
+			<Compiler Name="HidingMember">True</Compiler>
+			<Compiler Name="HiddenVirtual">True</Compiler>
+			<Compiler Name="Garbage">True</Compiler>
+			<Compiler Name="BoundsError">True</Compiler>
+			<Compiler Name="ZeroNilCompat">True</Compiler>
+			<Compiler Name="StringConstTruncated">True</Compiler>
+			<Compiler Name="ForLoopVarVarPar">True</Compiler>
+			<Compiler Name="TypedConstVarPar">True</Compiler>
+			<Compiler Name="AsgToTypedConst">True</Compiler>
+			<Compiler Name="CaseLabelRange">True</Compiler>
+			<Compiler Name="ForVariable">True</Compiler>
+			<Compiler Name="ConstructingAbstract">True</Compiler>
+			<Compiler Name="ComparisonFalse">True</Compiler>
+			<Compiler Name="ComparisonTrue">True</Compiler>
+			<Compiler Name="ComparingSignedUnsigned">True</Compiler>
+			<Compiler Name="CombiningSignedUnsigned">True</Compiler>
+			<Compiler Name="UnsupportedConstruct">True</Compiler>
+			<Compiler Name="FileOpen">True</Compiler>
+			<Compiler Name="FileOpenUnitSrc">True</Compiler>
+			<Compiler Name="BadGlobalSymbol">True</Compiler>
+			<Compiler Name="DuplicateConstructorDestructor">True</Compiler>
+			<Compiler Name="InvalidDirective">True</Compiler>
+			<Compiler Name="PackageNoLink">True</Compiler>
+			<Compiler Name="PackageThreadVar">True</Compiler>
+			<Compiler Name="ImplicitImport">True</Compiler>
+			<Compiler Name="HPPEMITIgnored">True</Compiler>
+			<Compiler Name="NoRetVal">True</Compiler>
+			<Compiler Name="UseBeforeDef">True</Compiler>
+			<Compiler Name="ForLoopVarUndef">True</Compiler>
+			<Compiler Name="UnitNameMismatch">True</Compiler>
+			<Compiler Name="NoCFGFileFound">True</Compiler>
+			<Compiler Name="ImplicitVariants">True</Compiler>
+			<Compiler Name="UnicodeToLocale">True</Compiler>
+			<Compiler Name="LocaleToUnicode">True</Compiler>
+			<Compiler Name="ImagebaseMultiple">True</Compiler>
+			<Compiler Name="SuspiciousTypecast">True</Compiler>
+			<Compiler Name="PrivatePropAccessor">True</Compiler>
+			<Compiler Name="UnsafeType">True</Compiler>
+			<Compiler Name="UnsafeCode">True</Compiler>
+			<Compiler Name="UnsafeCast">True</Compiler>
+			<Compiler Name="OptionTruncated">True</Compiler>
+			<Compiler Name="WideCharReduced">True</Compiler>
+			<Compiler Name="DuplicatesIgnored">True</Compiler>
+			<Compiler Name="UnitInitSeq">True</Compiler>
+			<Compiler Name="LocalPInvoke">True</Compiler>
+			<Compiler Name="MessageDirective">True</Compiler>
+			<Compiler Name="CodePage"></Compiler>
+		</Compiler>
+		<Linker>
+			<Linker Name="MapFile">0</Linker>
+			<Linker Name="OutputObjs">0</Linker>
+			<Linker Name="GenerateHpps">False</Linker>
+			<Linker Name="ConsoleApp">1</Linker>
+			<Linker Name="DebugInfo">True</Linker>
+			<Linker Name="RemoteSymbols">False</Linker>
+			<Linker Name="GenerateDRC">False</Linker>
+			<Linker Name="MinStackSize">4096</Linker>
+			<Linker Name="MaxStackSize">1048576</Linker>
+			<Linker Name="ImageBase">4194304</Linker>
+			<Linker Name="ExeDescription"></Linker>
+		</Linker>
+		<Directories>
+			<Directories Name="OutputDir">bin</Directories>
+			<Directories Name="UnitOutputDir"></Directories>
+			<Directories Name="PackageDLLOutputDir"></Directories>
+			<Directories Name="PackageDCPOutputDir"></Directories>
+			<Directories Name="SearchPath">c:\windows\microsoft.net\framework\v1.1.4322;c:\users\administrador\desktop\populando\bin</Directories>
+			<Directories Name="Packages">c:\users\administrador\desktop\populando\bin\FreeTextBox.dll;c:\users\administrador\desktop\populando\bin\FirebirdSql.Data.Firebird.dll;c:\users\administrador\desktop\populando\bin\ControleMessageBox.dll;c:\windows\microsoft.net\framework\v1.1.4322\System.Management.dll;c:\windows\microsoft.net\framework\v1.1.4322\Microsoft.VisualBasic.dll;c:\windows\microsoft.net\framework\v1.1.4322\System.Windows.Forms.dll;c:\windows\microsoft.net\framework\v1.1.4322\System.Design.dll;c:\windows\microsoft.net\framework\v1.1.4322\System.XML.dll;c:\windows\microsoft.net\framework\v1.1.4322\System.Web.dll;c:\windows\microsoft.net\framework\v1.1.4322\System.Drawing.dll;c:\windows\microsoft.net\framework\v1.1.4322\System.Data.dll;c:\windows\microsoft.net\framework\v1.1.4322\System.dll</Directories>
+			<Directories Name="Conditionals"></Directories>
+			<Directories Name="DebugSourceDirs"></Directories>
+			<Directories Name="UsePackages">True</Directories>
+		</Directories>
+		<Parameters>
+			<Parameters Name="RunParams"></Parameters>
+			<Parameters Name="HostApplication">c:\program files\borland\bds\4.0\bin\CassiniWebServer.exe</Parameters>
+			<Parameters Name="Launcher"></Parameters>
+			<Parameters Name="UseLauncher">False</Parameters>
+			<Parameters Name="DebugCWD"></Parameters>
+			<Parameters Name="Debug Symbols Search Path"></Parameters>
+			<Parameters Name="LoadAllSymbols">True</Parameters>
+			<Parameters Name="LoadUnspecifiedSymbols">False</Parameters>
+		</Parameters>
+		<Language>
+			<Language Name="ActiveLang"></Language>
+			<Language Name="ProjectLang">$00000000</Language>
+			<Language Name="RootDir"></Language>
+		</Language>
+		<VersionInfo>
+			<VersionInfo Name="IncludeVerInfo">False</VersionInfo>
+			<VersionInfo Name="AutoIncBuild">False</VersionInfo>
+			<VersionInfo Name="MajorVer">1</VersionInfo>
+			<VersionInfo Name="MinorVer">0</VersionInfo>
+			<VersionInfo Name="Release">0</VersionInfo>
+			<VersionInfo Name="Build">0</VersionInfo>
+			<VersionInfo Name="Debug">False</VersionInfo>
+			<VersionInfo Name="PreRelease">False</VersionInfo>
+			<VersionInfo Name="Special">False</VersionInfo>
+			<VersionInfo Name="Private">False</VersionInfo>
+			<VersionInfo Name="DLL">False</VersionInfo>
+			<VersionInfo Name="Locale">1046</VersionInfo>
+			<VersionInfo Name="CodePage">1252</VersionInfo>
+		</VersionInfo>
+		<VersionInfoKeys>
+			<VersionInfoKeys Name="CompanyName"></VersionInfoKeys>
+			<VersionInfoKeys Name="FileDescription"></VersionInfoKeys>
+			<VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+			<VersionInfoKeys Name="InternalName"></VersionInfoKeys>
+			<VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys>
+			<VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys>
+			<VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys>
+			<VersionInfoKeys Name="ProductName"></VersionInfoKeys>
+			<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+			<VersionInfoKeys Name="Comments"></VersionInfoKeys>
+		</VersionInfoKeys>
+		<Options>
+			<Options Name="AspNetUseHostServer">True</Options>
+			<Options Name="AspNetLaunchBrowser">True</Options>
+			<Options Name="AspNetStartPage">Default.aspx</Options>
+			<Options Name="AspNetHostServer">Cassini</Options>
+			<Options Name="AspNetCassiniPortIndex">0</Options>
+			<Options Name="AspNetCassiniStartup">ProjectOpen</Options>
+			<Options Name="AspNetIISVirtualDirectory">populando</Options>
+			<Options Name="AspNetHTTPAddress">http://127.0.0.1/populando/Default.aspx</Options>
+			<Options Name="AspNetCassiniHTTPAddress">http://localhost:8084/Default.aspx</Options>
+		</Options>  
+    
+    
+    
+    
+    
+    <FileList>
+      <File FileName="$(SystemRoot)\microsoft.net\framework\v1.1.4322\System.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="System" AssemblyName="system" Version="1.0.5000.0" LinkUnits="False"/>
+      <File FileName="$(SystemRoot)\microsoft.net\framework\v1.1.4322\System.Data.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="System.Data" AssemblyName="system.data" Version="1.0.5000.0" LinkUnits="False"/>
+      <File FileName="$(SystemRoot)\microsoft.net\framework\v1.1.4322\System.Drawing.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="System.Drawing" AssemblyName="system.drawing" Version="1.0.5000.0" LinkUnits="False"/>
+      <File FileName="$(SystemRoot)\microsoft.net\framework\v1.1.4322\System.Web.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="System.Web" AssemblyName="system.web" Version="1.0.5000.0" LinkUnits="False"/>
+      <File FileName="$(SystemRoot)\microsoft.net\framework\v1.1.4322\System.XML.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="System.XML" AssemblyName="system.xml" Version="1.0.5000.0" LinkUnits="False"/>
+      <File FileName="Global.asax" ContainerId="AspMarkupContainer" ModuleName="Global"/>
+      <File FileName="Default.aspx" ContainerId="AspMarkupContainer" ModuleName="Default"/>
+      <File FileName="Usuario.aspx" ContainerId="AspMarkupContainer" ModuleName="Usuario"/>
+      <File FileName="Anuncio.aspx" ContainerId="AspMarkupContainer" ModuleName="Anuncio"/>
+      <File FileName="$(SystemRoot)\microsoft.net\framework\v1.1.4322\System.Design.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="System.Design" AssemblyName="System.Design" Version="1.0.5000.0" LinkUnits="False"/>
+      <File FileName="licenses.licx" ContainerId="LicXCompiler" ModuleName="licenses"/>
+      <File FileName="$(SystemRoot)\microsoft.net\framework\v1.1.4322\System.Windows.Forms.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="System.Windows.Forms" AssemblyName="System.Windows.Forms" Version="1.0.5000.0" LinkUnits="False"/>
+      <File FileName="Usuario.resx" ContainerId="ResXCompiler" ModuleName="Usuario" Parent="Usuario.pas"/>
+      <File FileName="$(SystemRoot)\microsoft.net\framework\v1.1.4322\Microsoft.VisualBasic.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="Microsoft.VisualBasic" AssemblyName="Microsoft.VisualBasic" Version="7.0.5000.0" LinkUnits="False"/>
+      <File FileName="$(SystemRoot)\microsoft.net\framework\v1.1.4322\System.Management.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="System.Management" AssemblyName="System.Management" Version="1.0.5000.0" LinkUnits="False"/>
+      <File FileName="Login.aspx" ContainerId="AspMarkupContainer" ModuleName="Login"/>
+      <File FileName="Login.resx" ContainerId="ResXCompiler" ModuleName="Login" Parent="Login.pas"/>
+      <File FileName="Anuncio.resx" ContainerId="ResXCompiler" ModuleName="Anuncio" Parent="Anuncio.pas"/>
+      <File FileName="Classificados.aspx" ContainerId="AspMarkupContainer" ModuleName="Classificados"/>
+      <File FileName="Classificados.resx" ContainerId="ResXCompiler" ModuleName="Classificados.resx" Parent="Classificados.pas"/>
+      <File FileName="TermoPoliticaUso.aspx" ContainerId="AspMarkupContainer" ModuleName="TermoPoliticaUso"/>
+      <File FileName="TermoPoliticaUso.resx" ContainerId="ResXCompiler" ModuleName="TermoPoliticaUso.resx" Parent="TermoPoliticaUso.pas"/>
+      <File FileName="Default.resx" ContainerId="ResXCompiler" ModuleName="Default" Parent="Default.pas"/>
+      <File FileName="EstadosCidades.aspx" ContainerId="AspMarkupContainer" ModuleName="EstadosCidades"/>
+      <File FileName="EstadosCidades.resx" ContainerId="ResXCompiler" ModuleName="EstadosCidades" Parent="EstadosCidades.pas"/>
+      <File FileName="NovaSenha.aspx" ContainerId="AspMarkupContainer" ModuleName="NovaSenha"/>
+      <File FileName="NovaSenha.resx" ContainerId="ResXCompiler" ModuleName="NovaSenha" Parent="NovaSenha.pas"/>
+      <File FileName="WebControl_Saldacao.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Saldacao"/>
+      <File FileName="WebControl_BannerTop.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_BannerTop"/>
+      <File FileName="WebControl_BannerAnu.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_BannerAnu"/>
+      <File FileName="WebControl_BannerPub.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_BannerPub"/>
+      <File FileName="WebControl_Links.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Links"/>
+      <File FileName="Marketing.aspx" ContainerId="AspMarkupContainer" ModuleName="Marketing"/>
+      <File FileName="ComoFunciona.aspx" ContainerId="AspMarkupContainer" ModuleName="ComoFunciona"/>
+      <File FileName="WebControl_Publicidade.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Publicidade"/>
+      <File FileName="DicaAnuncio.aspx" ContainerId="AspMarkupContainer" ModuleName="DicaAnuncio"/>
+      <File FileName="WebControl_Ms.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Ms"/>
+      <File FileName="WebControl_MegaBonus.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_MegaBonus"/>
+      <File FileName="WebControl_Google.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Google"/>
+      <File FileName="WebControl_SubMarino.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_SubMarino"/>
+      <File FileName="Marketing.resx" ContainerId="ResXCompiler" ModuleName="Marketing" Parent="Marketing.pas"/>
+      <File FileName="ComoFunciona.resx" ContainerId="ResXCompiler" ModuleName="ComoFunciona" Parent="ComoFunciona.pas"/>
+      <File FileName="SemAnuncio.aspx" ContainerId="AspMarkupContainer" ModuleName="SemAnuncio"/>
+      <File FileName="SemAnuncio.resx" ContainerId="ResXCompiler" ModuleName="SemAnuncio" Parent="SemAnuncio.pas"/>
+      <File FileName="WebControl_PagSeguro.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_PagSeguro"/>
+      <File FileName="AnuncioRestrito.aspx" ContainerId="AspMarkupContainer" ModuleName="AnuncioRestrito"/>
+      <File FileName="WebControl_Mercado2.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Mercado2"/>
+      <File FileName="WebControl_FriendFinder1.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_FriendFinder1"/>
+      <File FileName="WebControl_FriendFinder2.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_FriendFinder2"/>
+      <File FileName="WebControl_CiaSoftware.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_CiaSoftware"/>
+      <File FileName="WebControl_Google2.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Google2"/>
+      <File FileName="ClassificadosSexo.aspx" ContainerId="AspMarkupContainer" ModuleName="ClassificadosSexo"/>
+      <File FileName="ClassificadosSexo.resx" ContainerId="ResXCompiler" ModuleName="ClassificadosSexo" Parent="ClassificadosSexo.pas"/>
+      <File FileName="WebControl_CiaSoftwareVitrine.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_CiaSoftwareVitrine"/>
+      <File FileName="WebControl_AnunLatEsq.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_AnunLatEsq"/>
+      <File FileName="WebControl_AnunLatEsq.resx" ContainerId="ResXCompiler" ModuleName="WebControl_AnunLatEsq" Parent="WebControl_AnunLatEsq.pas"/>
+      <File FileName="WebControl_Catho.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Catho"/>
+      <File FileName="WebControl_Dell.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Dell"/>
+      <File FileName="WebControl_Dell1.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Dell1"/>
+      <File FileName="WebControl_PortalEdu.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_PortalEdu"/>
+      <File FileName="WebControl_Manager.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Manager"/>
+      <File FileName="WebControl_Buscape.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_Buscape"/>
+      <File FileName="WebControl_MercadoLivre.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_MercadoLivre"/>
+      <File FileName="WebControl_PagSeguro1.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_PagSeguro1"/>
+      <File FileName="WebControl_AmigosCom.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_AmigosCom"/>
+      <File FileName="WebControl_IndicaAmigo.ascx" ContainerId="AspMarkupContainer" ModuleName="WebControl_IndicaAmigo"/>
+      <File FileName="IndicaAmigo.aspx" ContainerId="AspMarkupContainer" ModuleName="IndicaAmigo"/>
+      <File FileName="Tela.aspx" ContainerId="AspMarkupContainer" ModuleName="Tela"/>
+      <File FileName="ModelSupport_populando\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="bin\ControleMessageBox.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="ControleMessageBox" AssemblyName="ControleMessageBox" Version="1.0.1836.39203" LinkUnits="False"/>
+      <File FileName="bin\FirebirdSql.Data.Firebird.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="FirebirdSql.Data.Firebird" AssemblyName="FirebirdSql.Data.Firebird" Version="1.7.1.0" LinkUnits="False"/>
+      <File FileName="Web.config" ContainerId="ConfigurationCompiler" ModuleName="Web"/>
+      <File FileName="imagens" ContainerId="AspFolderContainer" ModuleName="NewFolder2"/>
+      <File FileName="imagens\aviso.gif" ContainerId="Gif" ModuleName="aviso"/>
+      <File FileName="imagens\bannerRWD468x60.gif" ContainerId="Gif" ModuleName="bannerRWD468x60"/>
+      <File FileName="imagens\compativel_ie.gif" ContainerId="Gif" ModuleName="compativel_ie"/>
+      <File FileName="imagens\delphi_asp_dot_net.gif" ContainerId="Gif" ModuleName="delphi_asp_dot_net"/>
+      <File FileName="imagens\dica_importante.gif" ContainerId="Gif" ModuleName="dica_importante"/>
+      <File FileName="imagens\fundo_email.gif" ContainerId="Gif" ModuleName="fundo_email"/>
+      <File FileName="imagens\indique.gif" ContainerId="Gif" ModuleName="indique"/>
+      <File FileName="imagens\janela_01.gif" ContainerId="Gif" ModuleName="janela_01"/>
+      <File FileName="imagens\janela_02.gif" ContainerId="Gif" ModuleName="janela_02"/>
+      <File FileName="imagens\janela_03.gif" ContainerId="Gif" ModuleName="janela_03"/>
+      <File FileName="imagens\janela_04.gif" ContainerId="Gif" ModuleName="janela_04"/>
+      <File FileName="imagens\janela_06.gif" ContainerId="Gif" ModuleName="janela_06"/>
+      <File FileName="imagens\janela_07.gif" ContainerId="Gif" ModuleName="janela_07"/>
+      <File FileName="imagens\janela_08.gif" ContainerId="Gif" ModuleName="janela_08"/>
+      <File FileName="imagens\janela_09.gif" ContainerId="Gif" ModuleName="janela_09"/>
+      <File FileName="imagens\Layout_Populando_01.gif" ContainerId="Gif" ModuleName="Layout_Populando_01"/>
+      <File FileName="imagens\Layout_Populando_02.gif" ContainerId="Gif" ModuleName="Layout_Populando_02"/>
+      <File FileName="imagens\Layout_Populando_03.gif" ContainerId="Gif" ModuleName="Layout_Populando_03"/>
+      <File FileName="imagens\Layout_Populando_04.gif" ContainerId="Gif" ModuleName="Layout_Populando_04"/>
+      <File FileName="imagens\Layout_Populando_07.gif" ContainerId="Gif" ModuleName="Layout_Populando_07"/>
+      <File FileName="imagens\logo_populando.gif" ContainerId="Gif" ModuleName="logo_populando"/>
+      <File FileName="imagens\logo_populando.jpg" ContainerId="Jpg" ModuleName="logo_populando"/>
+      <File FileName="imagens\lupa.gif" ContainerId="Gif" ModuleName="lupa"/>
+      <File FileName="imagens\pagamento_pagseguro.jpg" ContainerId="Jpg" ModuleName="pagamento_pagseguro"/>
+      <File FileName="imagens\paisfilhos.gif" ContainerId="Gif" ModuleName="paisfilhos"/>
+      <File FileName="imagens\populando.gif" ContainerId="Gif" ModuleName="populando"/>
+      <File FileName="imagens\populando_100_imagem.gif" ContainerId="Gif" ModuleName="populando_100_imagem"/>
+      <File FileName="imagens\populando_anuncios.gif" ContainerId="Gif" ModuleName="populando_anuncios"/>
+      <File FileName="imagens\populando_feed.jpg" ContainerId="Jpg" ModuleName="populando_feed"/>
+      <File FileName="imagens\populando_fundo.jpg" ContainerId="Jpg" ModuleName="populando_fundo"/>
+      <File FileName="imagens\populando_img_fundo.gif" ContainerId="Gif" ModuleName="populando_img_fundo"/>
+      <File FileName="imagens\populando_img_fundo_pag.gif" ContainerId="Gif" ModuleName="populando_img_fundo_pag"/>
+      <File FileName="imagens\populando_sem_imagem.gif" ContainerId="Gif" ModuleName="populando_sem_imagem"/>
+      <File FileName="imagens\rodape_email.gif" ContainerId="Gif" ModuleName="rodape_email"/>
+      <File FileName="imagens\rss.gif" ContainerId="Gif" ModuleName="rss"/>
+      <File FileName="imagens\selo_inforamos.gif" ContainerId="Gif" ModuleName="selo_inforamos"/>
+      <File FileName="imagens\site_populando_com_br_01.gif" ContainerId="Gif" ModuleName="site_populando_com_br_01"/>
+      <File FileName="imagens\site_populando_com_br_02.gif" ContainerId="Gif" ModuleName="site_populando_com_br_02"/>
+      <File FileName="imagens\site_populando_com_br_03.gif" ContainerId="Gif" ModuleName="site_populando_com_br_03"/>
+      <File FileName="imagens\site_populando_com_br_04.gif" ContainerId="Gif" ModuleName="site_populando_com_br_04"/>
+      <File FileName="imagens\site_populando_com_br_07.gif" ContainerId="Gif" ModuleName="site_populando_com_br_07"/>
+      <File FileName="imagens\site_populando_com_br_cf1.gif" ContainerId="Gif" ModuleName="site_populando_com_br_cf1"/>
+      <File FileName="imagens\site_populando_com_br_cf2.gif" ContainerId="Gif" ModuleName="site_populando_com_br_cf2"/>
+      <File FileName="imagens\site_populando_com_br_cf3.gif" ContainerId="Gif" ModuleName="site_populando_com_br_cf3"/>
+      <File FileName="imagens\site_populando_com_br_cf4.gif" ContainerId="Gif" ModuleName="site_populando_com_br_cf4"/>
+      <File FileName="imagens\site_populando_com_br_cf5.gif" ContainerId="Gif" ModuleName="site_populando_com_br_cf5"/>
+      <File FileName="imagens\site_populando_com_br_dica.gif" ContainerId="Gif" ModuleName="site_populando_com_br_dica"/>
+      <File FileName="imagens\spacer.gif" ContainerId="Gif" ModuleName="spacer"/>
+      <File FileName="imagens\tempo.gif" ContainerId="Gif" ModuleName="tempo"/>
+      <File FileName="imagens\topo_email.gif" ContainerId="Gif" ModuleName="topo_email"/>
+      <File FileName="imagens\unicard.gif" ContainerId="Gif" ModuleName="unicard"/>
+      <File FileName="imagens\anuncio_adulto.gif" ContainerId="Gif" ModuleName="anuncio_adulto"/>
+      <File FileName="rss" ContainerId="AspFolderContainer" ModuleName="NewFolder2"/>
+      <File FileName="anuncios" ContainerId="AspFolderContainer" ModuleName="anuncios"/>
+      <File FileName="anuncios\imagens" ContainerId="AspFolderContainer" ModuleName="imagens"/>
+      <File FileName="anuncios\FreeTextBox" ContainerId="AspFolderContainer" ModuleName="FreeTextBox"/>
+      <File FileName="imagens\ano novo" ContainerId="AspFolderContainer" ModuleName="ano novo"/>
+      <File FileName="imagens\carnaval" ContainerId="AspFolderContainer" ModuleName="carnaval"/>
+      <File FileName="imagens\imgs" ContainerId="AspFolderContainer" ModuleName="imgs"/>
+      <File FileName="imagens\manutencao" ContainerId="AspFolderContainer" ModuleName="manutencao"/>
+      <File FileName="imagens\natal" ContainerId="AspFolderContainer" ModuleName="natal"/>
+      <File FileName="ModelSupport_populando\WebControl_SubMarino\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\Classificados\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\TermoPoliticaUso\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_AmigosCom\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Dell1\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_CiaSoftware\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Links\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\Tela\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\Marketing\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\NovaSenha\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_AnunLatEsq\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\UnCliptografia\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_FriendFinder2\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_MegaBonus\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Ms\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\EstadosCidades\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_PagSeguro1\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Dell\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_FriendFinder1\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_CiaSoftwareVitrine\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\IndicaAmigo\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Buscape\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\Usuario\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_PortalEdu\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Google2\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Mercado2\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\Default\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\Anuncio\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Saldacao\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\Login\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Manager\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\AnuncioRestrito\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_BannerTop\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_IndicaAmigo\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\ComoFunciona\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Publicidade\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Catho\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_MercadoLivre\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\SemAnuncio\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\Envio\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\Global\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_Google\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_BannerPub\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\populando\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\DicaAnuncio\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_PagSeguro\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\ClassificadosSexo\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\WebControl_BannerAnu\default.txaPackage" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="ModelSupport_populando\default.txvpck" ContainerId="TogetherDiagram" ModuleName="default"/>
+      <File FileName="rss\anuncios.xml" ContainerId="File" ModuleName="anuncios"/>
+      <File FileName="bin\FreeTextBox.dll" ContainerId="DelphiDotNetAssemblyCompiler" ModuleName="FreeTextBox" AssemblyName="FreeTextBox" Version="3.3.0.30784" LinkUnits="False"/>
+      <File FileName="" ContainerId="" ModuleName="System.Reflection"/>
+      <File FileName="" ContainerId="" ModuleName="System.Runtime.CompilerServices"/>
+      <File FileName="Global.pas" ContainerId="" ModuleName="Global" Parent="Global.asax"/>
+      <File FileName="Default.pas" ContainerId="" ModuleName="Default" Parent="Default.aspx"/>
+      <File FileName="Usuario.pas" ContainerId="" ModuleName="Usuario" Parent="Usuario.aspx"/>
+      <File FileName="Anuncio.pas" ContainerId="" ModuleName="Anuncio" Parent="Anuncio.aspx"/>
+      <File FileName="UnCliptografia.pas" ContainerId="" ModuleName="UnCliptografia"/>
+      <File FileName="Login.pas" ContainerId="" ModuleName="Login" Parent="Login.aspx"/>
+      <File FileName="Classificados.pas" ContainerId="" ModuleName="Classificados" Parent="Classificados.aspx"/>
+      <File FileName="TermoPoliticaUso.pas" ContainerId="" ModuleName="TermoPoliticaUso" Parent="TermoPoliticaUso.aspx"/>
+      <File FileName="EstadosCidades.pas" ContainerId="" ModuleName="EstadosCidades" Parent="EstadosCidades.aspx"/>
+      <File FileName="NovaSenha.pas" ContainerId="" ModuleName="NovaSenha" Parent="NovaSenha.aspx"/>
+      <File FileName="WebControl_Saldacao.pas" ContainerId="" ModuleName="WebControl_Saldacao" Parent="WebControl_Saldacao.ascx"/>
+      <File FileName="WebControl_BannerTop.pas" ContainerId="" ModuleName="WebControl_BannerTop" Parent="WebControl_BannerTop.ascx"/>
+      <File FileName="WebControl_BannerAnu.pas" ContainerId="" ModuleName="WebControl_BannerAnu" Parent="WebControl_BannerAnu.ascx"/>
+      <File FileName="WebControl_BannerPub.pas" ContainerId="" ModuleName="WebControl_BannerPub" Parent="WebControl_BannerPub.ascx"/>
+      <File FileName="WebControl_Links.pas" ContainerId="" ModuleName="WebControl_Links" Parent="WebControl_Links.ascx"/>
+      <File FileName="Marketing.pas" ContainerId="" ModuleName="Marketing" Parent="Marketing.aspx"/>
+      <File FileName="ComoFunciona.pas" ContainerId="" ModuleName="ComoFunciona" Parent="ComoFunciona.aspx"/>
+      <File FileName="WebControl_Publicidade.pas" ContainerId="" ModuleName="WebControl_Publicidade" Parent="WebControl_Publicidade.ascx"/>
+      <File FileName="DicaAnuncio.pas" ContainerId="" ModuleName="DicaAnuncio" Parent="DicaAnuncio.aspx"/>
+      <File FileName="WebControl_Ms.pas" ContainerId="" ModuleName="WebControl_Ms" Parent="WebControl_Ms.ascx"/>
+      <File FileName="WebControl_MegaBonus.pas" ContainerId="" ModuleName="WebControl_MegaBonus" Parent="WebControl_MegaBonus.ascx"/>
+      <File FileName="WebControl_Google.pas" ContainerId="" ModuleName="WebControl_Google" Parent="WebControl_Google.ascx"/>
+      <File FileName="WebControl_SubMarino.pas" ContainerId="" ModuleName="WebControl_SubMarino" Parent="WebControl_SubMarino.ascx"/>
+      <File FileName="SemAnuncio.pas" ContainerId="" ModuleName="SemAnuncio" Parent="SemAnuncio.aspx"/>
+      <File FileName="WebControl_PagSeguro.pas" ContainerId="" ModuleName="WebControl_PagSeguro" Parent="WebControl_PagSeguro.ascx"/>
+      <File FileName="AnuncioRestrito.pas" ContainerId="" ModuleName="AnuncioRestrito" Parent="AnuncioRestrito.aspx"/>
+      <File FileName="WebControl_Mercado2.pas" ContainerId="" ModuleName="WebControl_Mercado2" Parent="WebControl_Mercado2.ascx"/>
+      <File FileName="WebControl_FriendFinder1.pas" ContainerId="" ModuleName="WebControl_FriendFinder1" Parent="WebControl_FriendFinder1.ascx"/>
+      <File FileName="WebControl_FriendFinder2.pas" ContainerId="" ModuleName="WebControl_FriendFinder2" Parent="WebControl_FriendFinder2.ascx"/>
+      <File FileName="WebControl_CiaSoftware.pas" ContainerId="" ModuleName="WebControl_CiaSoftware" Parent="WebControl_CiaSoftware.ascx"/>
+      <File FileName="WebControl_Google2.pas" ContainerId="" ModuleName="WebControl_Google2" Parent="WebControl_Google2.ascx"/>
+      <File FileName="ClassificadosSexo.pas" ContainerId="" ModuleName="ClassificadosSexo" Parent="ClassificadosSexo.aspx"/>
+      <File FileName="WebControl_CiaSoftwareVitrine.pas" ContainerId="" ModuleName="WebControl_CiaSoftwareVitrine" Parent="WebControl_CiaSoftwareVitrine.ascx"/>
+      <File FileName="WebControl_AnunLatEsq.pas" ContainerId="" ModuleName="WebControl_AnunLatEsq" Parent="WebControl_AnunLatEsq.ascx"/>
+      <File FileName="WebControl_Catho.pas" ContainerId="" ModuleName="WebControl_Catho" Parent="WebControl_Catho.ascx"/>
+      <File FileName="WebControl_Dell.pas" ContainerId="" ModuleName="WebControl_Dell" Parent="WebControl_Dell.ascx"/>
+      <File FileName="WebControl_Dell1.pas" ContainerId="" ModuleName="WebControl_Dell1" Parent="WebControl_Dell1.ascx"/>
+      <File FileName="WebControl_PortalEdu.pas" ContainerId="" ModuleName="WebControl_PortalEdu" Parent="WebControl_PortalEdu.ascx"/>
+      <File FileName="WebControl_Manager.pas" ContainerId="" ModuleName="WebControl_Manager" Parent="WebControl_Manager.ascx"/>
+      <File FileName="WebControl_Buscape.pas" ContainerId="" ModuleName="WebControl_Buscape" Parent="WebControl_Buscape.ascx"/>
+      <File FileName="WebControl_MercadoLivre.pas" ContainerId="" ModuleName="WebControl_MercadoLivre" Parent="WebControl_MercadoLivre.ascx"/>
+      <File FileName="WebControl_PagSeguro1.pas" ContainerId="" ModuleName="WebControl_PagSeguro1" Parent="WebControl_PagSeguro1.ascx"/>
+      <File FileName="WebControl_AmigosCom.pas" ContainerId="" ModuleName="WebControl_AmigosCom" Parent="WebControl_AmigosCom.ascx"/>
+      <File FileName="WebControl_IndicaAmigo.pas" ContainerId="" ModuleName="WebControl_IndicaAmigo" Parent="WebControl_IndicaAmigo.ascx"/>
+      <File FileName="IndicaAmigo.pas" ContainerId="" ModuleName="IndicaAmigo" Parent="IndicaAmigo.aspx"/>
+      <File FileName="Tela.pas" ContainerId="" ModuleName="Tela" Parent="Tela.aspx"/>
+    </FileList>
+  </DelphiDotNet.Personality>
+	<ModelSupport>True</ModelSupport>
+</BorlandProject>
